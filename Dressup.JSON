@@ -1,0 +1,29 @@
+{
+    
+	"version": " ",
+
+"applovinsdk": "A8wlgmJAawwWy-xN8SDz4tP_xxxxxxxxxxxx",
+"applovinbanner": "539de5xxxxxx",
+"applovininter": "fb83e2f8xxxxxxx",
+"applovinreward": "283d86xxxxxxxx",
+
+
+"fanbanner": "114bxxxx",
+"faninter": "114bxxxx",
+"fanreward": "114bxxxx",
+
+"admobbannerId": "ca-app-pub-3940256099942544/2435281174",
+"admobInterId": "ca-app-pub-3940256099942544/4411468910",
+"admobReward": "ca-app-pub-3940256099942544/1712485313",
+
+
+"adscounter": "1",
+
+"adsSwitchInter details ": "0:auto 1:Applovin  2:GleyAdmob 3:fan",
+
+"adsSwitchInter": "2",
+"adsSwitchBanner": "2",
+"adsSwitchReward": "2"
+	
+
+}
